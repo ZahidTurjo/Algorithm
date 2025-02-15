@@ -1,0 +1,1 @@
+{"name":"Local: UD_use_bfs","url":"c:\\Algorithm\\Detect Cycle\\Undirected Graph\\UD_use_bfs.cpp","tests":[{"id":1739188288394,"input":"6 5\n0 1\n1 2\n2 4\n4 0\n3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Detect Cycle\\Undirected Graph\\UD_use_bfs.cpp","group":"local","local":true}

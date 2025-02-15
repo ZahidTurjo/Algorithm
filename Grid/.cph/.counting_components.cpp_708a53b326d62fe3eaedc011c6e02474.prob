@@ -1,0 +1,1 @@
+{"name":"Local: counting_components","url":"c:\\Algorithm\\Grid\\counting_components.cpp","tests":[{"id":1738904600861,"input":"5 8\n~~~~~~~~\n~..~...~\n~~~~.~.~\n~..~...~\n~~~~~~~~","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Grid\\counting_components.cpp","group":"local","local":true}

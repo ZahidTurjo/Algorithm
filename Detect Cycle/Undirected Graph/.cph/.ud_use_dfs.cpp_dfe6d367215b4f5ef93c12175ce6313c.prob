@@ -1,0 +1,1 @@
+{"name":"Local: ud_use_dfs","url":"c:\\Algorithm\\Detect Cycle\\Undirected Graph\\ud_use_dfs.cpp","tests":[{"id":1739193883859,"input":"6 5\n0 1\n1 2\n2 3\n3 0\n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Detect Cycle\\Undirected Graph\\ud_use_dfs.cpp","group":"local","local":true}

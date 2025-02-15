@@ -1,0 +1,1 @@
+{"name":"Local: destination","url":"c:\\Algorithm\\Grid\\destination.cpp","tests":[{"id":1738908327492,"input":"5 8\n~~~~~~~~\n~..~...~\n~~~~.~.~\n~..~...~\n~~~~~~~~\n1 4\n3 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Grid\\destination.cpp","group":"local","local":true}
