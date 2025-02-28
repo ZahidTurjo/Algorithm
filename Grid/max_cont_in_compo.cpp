@@ -6,7 +6,7 @@ int n,m;
 char map_wr[1001][1001];
 bool vis[1001][1001];
 
-vector<pair<int,int>> d={{0,1},{0,-1},{1,0},{-1,0}};
+vector<pair<int,int>> d={{0,1},{0,-1},{-1,0},{1,0}};
 
 bool valid(int i, int j) {
     return !(i < 0 || j < 0 || i >= n || j >= m);

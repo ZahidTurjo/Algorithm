@@ -1,0 +1,1 @@
+{"name":"Local: bellMan","url":"c:\\Algorithm\\Bellman\\bellMan.cpp","tests":[{"id":1740355070223,"input":"4 4\n0 1 5\n1 2 3\n2 3 2\n3 1 -6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Bellman\\bellMan.cpp","group":"local","local":true}
