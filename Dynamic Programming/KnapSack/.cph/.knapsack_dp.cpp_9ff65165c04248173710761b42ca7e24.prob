@@ -1,0 +1,1 @@
+{"name":"Local: knapsack_dp","url":"c:\\Algorithm\\Dynamic Programming\\KnapSack\\knapsack_dp.cpp","tests":[{"id":1741258282470,"input":"4\n10 4 7 5\n4 3 2 5\n8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Dynamic Programming\\KnapSack\\knapsack_dp.cpp","group":"local","local":true}
