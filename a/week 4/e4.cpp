@@ -23,26 +23,29 @@ int knapscak(int i,int mx_wt){
 
 }
 int main(){
-    int n,mx_wt;
-    cin>>n;
- 
-
-    for(int i=0;i<n;i++){
-        cin>>weight[i];
-    }
-    for(int i=0;i<n;i++){
-        cin>>val[i];
-    }
-
-    cin>>mx_wt;
-
-    for(int i=0; i<=n; i++){
-        for(int j=0; j<=mx_wt; j++){
-            dp[i][j] = -1;
+    int t;
+    cin>>t;
+    while(t--){
+        int n,mx_wt;
+        cin>>n>>mx_wt;
+     
+        
+        for(int i=0;i<n;i++){
+            cin>>weight[i];
         }
-    }
+        for(int i=0;i<n;i++){
+            cin>>val[i];
+        }
     
-    cout<<knapscak(n-1,mx_wt)<<endl;
+        for(int i=0; i<=n; i++){
+            for(int j=0; j<=mx_wt; j++){
+                dp[i][j] = -1;
+            }
+        }
+        
+        cout<<knapscak(n-1,mx_wt)<<endl;
+    }
+ 
 
     return 0;
 }

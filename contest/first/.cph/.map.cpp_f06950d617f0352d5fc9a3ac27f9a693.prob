@@ -1,0 +1,1 @@
+{"name":"Local: map","url":"c:\\Algorithm\\contest\\first\\map.cpp","tests":[{"id":1742510380170,"input":"4\n7 5\n2 3 1 5 6 7 4\n4 2\n9 3 6 2\n5 1\n2 2 1 7 9\n1 1\n3\n","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\contest\\first\\map.cpp","group":"local","local":true}

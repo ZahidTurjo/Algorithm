@@ -1,0 +1,1 @@
+{"name":"Local: f1","url":"c:\\Algorithm\\Practice Problem\\contest\\f1.cpp","tests":[{"id":1741972276162,"input":"5 3\n2 4 1 5 3\n1 3\n2 5\n4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Practice Problem\\contest\\f1.cpp","group":"local","local":true}

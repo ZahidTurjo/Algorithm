@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum","url":"c:\\Algorithm\\Dynamic Programming\\KnapSack\\knapsack_variation\\subset_sum.cpp","tests":[{"id":1742743739200,"input":"4\n1 2 4 6\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Algorithm\\Dynamic Programming\\KnapSack\\knapsack_variation\\subset_sum.cpp","group":"local","local":true}
